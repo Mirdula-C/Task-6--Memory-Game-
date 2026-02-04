@@ -8,7 +8,6 @@ A fun and interactive memory game built with HTML, CSS, and JavaScript where pla
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [How to Play](#how-to-play)
-5. [Installation](#installation)
 
 ## Overview
 
