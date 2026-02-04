@@ -82,7 +82,19 @@ header {
     transform: translate(-50%, -50%);
 }
 
+.message-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.45);
+  display: none; 
+  align-items: center;
+  justify-content: center;
 
+  z-index: 1000;
+}
 
 .message-content {
     background-color: rgba(255, 255, 255, 0.9);
