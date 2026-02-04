@@ -36,21 +36,3 @@ The Memory Game is a simple, engaging game where users try to find all matching 
 3. **Match Pairs**: Try to find matching pairs of fruit icons. If two flipped cards match, they stay visible. If they don’t match, they will flip back after a short delay.
 4. **Winning the Game**: Continue matching pairs until all cards are matched. A congratulatory message will pop up once all pairs are found.
 5. **Restart the Game**: To play again, click the "Restart" button or the "Play Again" button after winning. This will shuffle and reset the game board.
-
-## Installation
-
-To run the Memory Game locally:
-
-1. **Clone the Repository**  
-   Run the following command in your terminal:
-   
-   git clone <repository-url>
-
-2. **Navigate to the Project Directory**
-   Run the following command in your terminal:
-
-   cd memory-game
-
-3. **Open the Game in a Browser**
-
-    Open the index.html file in your browser to start playing the game.
