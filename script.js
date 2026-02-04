@@ -22,7 +22,7 @@ function shuffleCards() {
     cardValues.sort(() => Math.random() - 0.5);
 }
 
-// Create cards
+// Create card
 function createCards() {
     cardValues.forEach(value => {
         const card = document.createElement("div");
